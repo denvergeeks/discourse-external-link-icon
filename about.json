@@ -1,9 +1,9 @@
 {
   "name": "External Link Icon",
   "component": true,
-  "license_url": null,
-  "about_url": null,
-  "authors": null,
+  "license_url": "https://github.com/denvergeeks/discourse-external-link-icon/blob/main/LICENSE",
+  "about_url": "https://github.com/denvergeeks/discourse-external-link-icon/blob/main/README.md",
+  "authors": "@denvergeeks",
   "theme_version": null,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
