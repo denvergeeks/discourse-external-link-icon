@@ -1,4 +1,4 @@
-// external-links-icon.gjs
+// discourse-external-links-icon/javascripts/discourse/api-initializers/external-links-icon.gjs
 
 import { apiInitializer } from "discourse/lib/api";
 
