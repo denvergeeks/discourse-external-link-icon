@@ -1,3 +1,5 @@
+// external-links-icon.gjs
+
 import { apiInitializer } from "discourse/lib/api";
 
 export default apiInitializer((api) => {
