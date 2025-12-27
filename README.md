@@ -1,1 +1,1 @@
-Uses the default SVG (the same icon as Featured Links in core) like [this link](https://github.com/user-attachments/assets/4eef52e5-daf6-4835-8324-16084e00edf8)
+Uses the default SVG (the same icon as Featured Links in core) like [this link] ![external-link-alt-solid-trans-919191](https://github.com/user-attachments/assets/a450be11-8d3c-4376-ba80-1409dff8a423)
