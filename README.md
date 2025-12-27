@@ -1,1 +1,1 @@
-Uses the default SVG (the same icon as Featured Links in core) like [this link]((https://github.com/denvergeeks/discourse-external-links-icon) ![external-link-alt-solid-trans-919191](https://github.com/user-attachments/assets/a450be11-8d3c-4376-ba80-1409dff8a423)
+Uses the default SVG (the same icon as Featured Links in core) like [this link](https://github.com/denvergeeks/discourse-external-links-icon) ![external-link-alt-solid-trans-919191](https://github.com/user-attachments/assets/a450be11-8d3c-4376-ba80-1409dff8a423)
