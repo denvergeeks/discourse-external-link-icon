@@ -1,1 +1,1 @@
-# discourse-external-link-icon
+# discourse-external-links-icon
